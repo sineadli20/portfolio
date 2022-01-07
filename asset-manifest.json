@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.07646cc1.css",
+    "main.js": "/portfolio/static/js/main.2e0d8eb4.js",
+    "static/js/787.9b9c0edf.chunk.js": "/portfolio/static/js/787.9b9c0edf.chunk.js",
+    "static/media/article.png": "/portfolio/static/media/article.7ff9e70133c212623750.png",
+    "static/media/magna-play.png": "/portfolio/static/media/magna-play.ca6cf06e7c5bfbf89aeb.png",
+    "static/media/vault.png": "/portfolio/static/media/vault.353766272d3d59f9b006.png",
+    "static/media/feed.png": "/portfolio/static/media/feed.f705f6eaca17284cf7a3.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.17826b79ab1bddc82eaa.png",
+    "static/media/cybercom-china.png": "/portfolio/static/media/cybercom-china.91d0de06f3e3e16cafd4.png",
+    "static/media/listings.png": "/portfolio/static/media/listings.73dbc68bdb9039ed6c63.png",
+    "static/media/policy-cover.png": "/portfolio/static/media/policy-cover.07d7de5afbf9adf854f7.png",
+    "static/media/menu.png": "/portfolio/static/media/menu.0e8a8b129dcd2e81cfb8.png",
+    "static/media/your-party.png": "/portfolio/static/media/your-party.0cc2874b8012051813c2.png",
+    "static/media/create-group.png": "/portfolio/static/media/create-group.8d8d410d50211da2e098.png",
+    "index.html": "/portfolio/index.html",
+    "main.07646cc1.css.map": "/portfolio/static/css/main.07646cc1.css.map",
+    "main.2e0d8eb4.js.map": "/portfolio/static/js/main.2e0d8eb4.js.map",
+    "787.9b9c0edf.chunk.js.map": "/portfolio/static/js/787.9b9c0edf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07646cc1.css",
+    "static/js/main.2e0d8eb4.js"
+  ]
+}
