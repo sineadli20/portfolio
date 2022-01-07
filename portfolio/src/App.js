@@ -31,13 +31,11 @@ const projects =
     images: [Listings]
   },
   */
-  /*
   {
     title: "Render",
     description: "Frontend developer (React Native) of Snapchat stories for gamers.",
     images: [Feed, Profile, Vault]
   },
-  */
   {
     title: "MagnaPlay",
     description: "UI/UX designer of Spotify for Indie games.",
