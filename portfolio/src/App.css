@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Raleway:wght@500;600;700;800;900&display=swap');
+
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.app-container {
+  width: 50%;
+  max-width: 700px;
+  min-width: 300px;
+}
+
+.intro-container {
+  padding-top: 60px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+
+.intro-text {
+  font-size: 32px;
+  color: #0c15e3;
+  font-family: 'Cabin', sans-serif;
+  text-align: center;
+}
+
+.intro-pic {
+  top: 80px;
+  width: 280px;
+}
+
+.header {
+  position: fixed;
+  z-index: 2;
+  background-color: white;
+  font-size: 18px;
+  height: 60px;
+  border-bottom: 2px solid black;
+
+  width: 50%;
+  display: flex;
+  align-items: center;
+
+  padding-top: 16px;
+  max-width: 700px;
+  min-width: 300px;
+}
+
+.header-background {
+  background-color: white;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  left: 0;
+  height: 62px;
+  padding-top: 16px;
+}
+
+.header-logo {
+  display: flex;
+  flex: 1;
+  font-size: 48px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+}
+
+.header-categories-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex: 1;
+}
+
+.header-category {
+  font-family: 'Cabin', sans-serif;
+  font-size: 18px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
